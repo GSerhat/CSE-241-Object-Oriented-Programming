@@ -1,0 +1,6 @@
+Mov r5 , -10
+prn r5
+add r5 , 1
+jmp r5 , 6
+jmp 2
+hlt
