@@ -1,4 +1,4 @@
-MOv R1 , 10
+MOV R1 , 10
 MOV R1 , R2
 ADD R3 , R1
 SUB R2 , 1
@@ -8,4 +8,4 @@ SUB R1 , 1
 JMP R1 , 10
 JMP 2
 PRN R3
-HLT 
+HLT
